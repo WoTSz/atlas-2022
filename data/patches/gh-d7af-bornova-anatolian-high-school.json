@@ -1,0 +1,56 @@
+{
+	"id": "tx7jnt",
+	"name": "Bornova Anatolian High School",
+	"description": "A high school named Bornova Anatolian High School (Bornova Anadolu Lisesi - BAL), established in 1953. It is located in İzmir, Turkey, and is one of the most prestigious high schools in the country.",
+	"links": {
+		"website": [
+			"http://izmirbal.meb.k12.tr/"
+		]
+	},
+	"path": {
+		"T:0-1, 109-164": [
+			[
+				1573,
+				1337
+			],
+			[
+				1574,
+				1338
+			],
+			[
+				1574,
+				1359
+			],
+			[
+				1594,
+				1359
+			],
+			[
+				1594,
+				1338
+			],
+			[
+				1595,
+				1338
+			],
+			[
+				1595,
+				1337
+			],
+			[
+				1594,
+				1339
+			],
+			[
+				1594,
+				1337
+			]
+		]
+	},
+	"center": {
+		"T:0-1, 109-164": [
+			1584,
+			1348
+		]
+	}
+}
