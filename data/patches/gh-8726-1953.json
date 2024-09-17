@@ -1,0 +1,36 @@
+{
+	"id": "ub2x66",
+	"name": "1953",
+	"description": "The year that Bornova Anatolian High School was established.",
+	"links": {
+		"website": [
+			"http://izmirbal.meb.k12.tr/"
+		]
+	},
+	"path": {
+		"T:0-1, 109-164": [
+			[
+				1575,
+				1337
+			],
+			[
+				1575,
+				1359
+			],
+			[
+				1579,
+				1359
+			],
+			[
+				1579,
+				1337
+			]
+		]
+	},
+	"center": {
+		"T:0-1, 109-164": [
+			1577,
+			1348
+		]
+	}
+}
